@@ -1,0 +1,12 @@
+{
+    "accuracy": 90.81,
+    "precision": 90.91,
+    "recall": 90.81,
+    "f1_score": 90.8,
+    "total_validation_images": 39428,
+    "model": "model/deepfake_model_experiment2.pth",
+    "classes": [
+        "fake",
+        "real"
+    ]
+}
